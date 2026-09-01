@@ -1,125 +1,255 @@
-<h1 align="center">Hi 👋, I'm Ahmed Osama</h1>
-<h3 align="center">Computer Science & AI Student | Computer Vision • Machine Learning • Deep Learning</h3>
+<div align="center">
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=AI+%26+ML+Enthusiast;Computer+Vision+%7C+YOLO+%7C+PyTorch;Underwater+Robotics+%40+CrocoMarine+ROV;Always+Learning%2C+Always+Building" alt="Typing SVG" />
-</p>
+<pre>
+ ▄▄▄       ██░ ██  ███▄ ▄███▓▓█████ ▓█████▄ 
+▒████▄    ▓██░ ██▒▓██▒▀█▀ ██▒▓█   ▀ ▒██▀ ██▌
+▒██  ▀█▄  ▒██▀▀██░▓██    ▓██░▒███   ░██   █▌
+░██▄▄▄▄██ ░▓█ ░██ ▒██    ▒██ ▒▓█  ▄ ░▓█▄   ▌
+ ▓█   ▓██▒░▓█▒░██▓▒██▒   ░██▒░▒████▒░▒████▓ 
+ ▒▒   ▓▒█░ ▒ ░░▒░▒░ ▒░   ░  ░░░ ▒░ ░ ▒▒▓  ▒ 
+  ▒   ▒▒ ░ ▒ ░▒░ ░░  ░      ░ ░ ░  ░ ░ ▒  ▒ 
+  ░   ▒    ░  ░░ ░░      ░      ░    ░ ░  ░ 
+      ░  ░ ░  ░  ░       ░      ░  ░   ░    
+                                      ░      
+</pre>
 
-<p align="center">
-  <a href="https://linkedin.com/in/ahmedosammaa" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=ahmedosama2321@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <img src="https://img.shields.io/badge/Alexandria%2C%20Egypt-1DA1F2?style=for-the-badge&logo=googlemaps&logoColor=white" />
-</p>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2500&pause=900&color=00D9FF&center=true&vCenter=true&width=650&lines=root%40ahmed%3A~%23+whoami;cs+%2B+ai+student+%2F%2F+computer+vision;training+models+%2F%2F+building+rovs;%5Bok%5D+identity+resolved" /></a>
 
----
+<img src="https://img.shields.io/badge/root-ahmed__osama-00d9ff?style=flat-square&labelColor=0a0a0a">
+<img src="https://img.shields.io/badge/location-alexandria%2C%20eg-8be9fd?style=flat-square&labelColor=0a0a0a">
+<img src="https://img.shields.io/badge/status-training-ffb86c?style=flat-square&labelColor=0a0a0a">
+<img src="https://img.shields.io/badge/team-crocomarine%20ROV-ff79c6?style=flat-square&labelColor=0a0a0a">
 
-### 🎯 About Me
+</div>
 
-- 🎓 B.Sc. Computer Science & Artificial Intelligence @ **Pharos University in Alexandria** (2025–2029)
-- 🔭 Currently working on **Computer Vision for underwater robotics** with **CrocoMarine (ROV Team)**
-- 🤖 Contributing to AI/ML projects as an **AI & ML Engineer** @ **IEEE PUA Student Branch**
-- 🌱 Currently learning **AI & Machine Learning** (Route Academy) and **Node.js/Express backend dev** (IBM)
-- 💡 Interested in real-world problem solving through AI, especially vision-based systems
-- 📫 Reach me at **ahmedosama2321@gmail.com**
-- 🗣️ Arabic (Native) • English (C1) • German (B1)
+<br>
 
----
+```
+┌─[ boot sequence ]───────────────────────────────────────────────┐
+│                                                                    │
+│  [ 0.001s ] loading kernel modules ......................... ok  │
+│  [ 0.041s ] mounting /home/ahmed ............................ ok │
+│  [ 0.118s ] init subsystem: cs+ai @ pharos university ....... ok │
+│  [ 0.226s ] init subsystem: computer-vision .................. ok │
+│  [ 0.309s ] init subsystem: deep-learning .................... ok │
+│  [ 0.397s ] init subsystem: rov-robotics ...................... ok │
+│  [ 0.455s ] loading crew: crocomarine + ieee pua .............. ok │
+│  [ 0.512s ] flag: caffeine_required ........................ true │
+│                                                                    │
+│  system ready. type 'about' to continue_                          │
+└────────────────────────────────────────────────────────────────┘
+```
 
-### 🧰 Tech Stack
+<br>
 
-**Programming Languages**
+## `~$ cat about.md`
 
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
-</p>
+CS & AI student who likes teaching machines to *see*. I train models,
+tune detectors, and ship them into real systems — from a webcam counting
+reps to an ROV navigating underwater. I care about the gap between a
+model that works in a notebook and one that works in production.
 
-**AI / Machine Learning / Computer Vision**
+```diff
+- a model that scores well on the validation set
++ a model that survives real-world input, latency, and noise
+```
 
-<p>
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" />
-  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white" />
-  <img src="https://img.shields.io/badge/YOLO-00FFFF?style=flat-square&logo=yolo&logoColor=black" />
-  <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" />
-  <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" />
-</p>
+<br>
 
-**Backend & Tools**
+## `~$ neofetch`
 
-<p>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" />
-</p>
+```
+        _/\_              root@ahmed
+       ( ◕.◕ )             ----------
+        > ^ <               os      : windows / linux
+                             editor  : vscode
+     /\_/\   /\_/\           field   : cs/ai — computer vision track
+    ( ^.^ ) ( o.o )          path    : python -> ml -> dl -> cv -> deployment
+     > ^ <   > ^ <           uni     : pharos university, alexandria
+                             langs   : arabic (native) · en (C1) · de (B1)
+```
 
----
+<br>
 
-### 🚀 Featured Projects
+## `~$ ls -la ./focus`
 
-| Project | Description | Stack |
-|---|---|---|
-| 🏋️ [Exercise Difficulty Prediction](https://github.com/ahmedosama2321) | ML model predicting workout difficulty levels | Python, ML |
-| 😴 [AI Drowsiness Detector](https://github.com/ahmedosama2321) | Real-time driver drowsiness detection system | Python, OpenCV, YOLO |
-| ✍️ [AI Air Drawing](https://github.com/ahmedosama2321) | Hand-tracking based drawing without touching a screen | Python, OpenCV |
-| 📈 [STC Time Series Analysis](https://github.com/ahmedosama2321) | Time series analysis & forecasting | Python, ML |
-| 🩺 [Diabetes Prediction](https://github.com/ahmedosama2321) | Predicting diabetes risk from health data | Python, ML |
+<table>
+<tr><td width="50%" valign="top">
 
-> 📌 Update each link above to point directly to its repo, e.g. `github.com/ahmedosama2321/ai-drowsiness-detector`
+**online**
+```diff
++ machine learning
++ deep learning
++ computer vision (opencv, yolo)
++ pytorch
++ data analysis (numpy, pandas)
+```
 
----
+</td><td width="50%" valign="top">
 
-### 🛠️ Experience
+**compiling**
+```diff
++ node.js / express backend
++ underwater robotics (ROV)
++ time-series forecasting
++ model deployment
+```
 
-**Computer Vision Sub-Team Member** — *CrocoMarine (ROV Team)* · Aug 2026 – Present
-Working on Computer Vision solutions for ROV and underwater robotics using Python, OpenCV, YOLO, PyTorch, ML & DL.
+</td></tr>
+</table>
 
-**AI & Machine Learning Engineer** — *IEEE PUA Student Branch* · Aug 2026 – Present
-Contributing to AI and Machine Learning activities and projects.
+<br>
 
----
+## `~$ ./arsenal --list`
 
-### 📜 Certifications & Courses
+<div align="center">
+<img src="https://skillicons.dev/icons?i=python,cs,js,nodejs,express,pytorch,opencv,git,linux,vscode&theme=dark&perline=10" />
+<br><br>
+<img src="https://img.shields.io/badge/YOLO-0a0a0a?style=for-the-badge&color=00d9ff"/>
+<img src="https://img.shields.io/badge/PyTorch-0a0a0a?style=for-the-badge&logo=pytorch&logoColor=EE4C2C&labelColor=0a0a0a"/>
+<img src="https://img.shields.io/badge/OpenCV-0a0a0a?style=for-the-badge&logo=opencv&logoColor=5C3EE8&labelColor=0a0a0a"/>
+<img src="https://img.shields.io/badge/NumPy-0a0a0a?style=for-the-badge&logo=numpy&logoColor=013243&labelColor=0a0a0a"/>
+<img src="https://img.shields.io/badge/Pandas-0a0a0a?style=for-the-badge&logo=pandas&logoColor=150458&labelColor=0a0a0a"/>
+</div>
 
-- ✅ Data Science Essentials with Python — *Cisco Networking Academy* (Aug 2026)
-- ✅ AI Fundamentals: Foundations for Understanding AI — *Cisco Networking Academy* (Aug 2026)
-- 🔄 AI & Machine Learning — *Route Academy* (In Progress)
-- 🔄 Back-End Development with Node.js and Express — *IBM* (In Progress)
+<br>
 
----
+## `~$ ./builds --featured`
 
-### 📊 GitHub Stats
+<details open>
+<summary><b>🎯 Exercise Difficulty Prediction</b> — ML on workout data</summary>
+<br>
 
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=ahmedosama2321&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedosama2321&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
+Predicts exercise difficulty from workout data using classic ML models —
+end-to-end pipeline from raw data to prediction.
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ahmedosama2321&theme=tokyonight&hide_border=true" />
-</p>
+```
+stack   : python · scikit-learn · pandas
+status  : complete
+link    : github.com/ahmedosama2321
+```
 
----
+</details>
 
-### 🤝 Connect With Me
+<details open>
+<summary><b>😴 AI Drowsiness Detector</b> — real-time CV safety system</summary>
+<br>
 
-<p align="center">
-  <a href="https://linkedin.com/in/ahmedosammaa" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=ahmedosama2321@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-</p>
+Real-time driver drowsiness detection using facial landmarks and eye-state
+tracking, built for live video streams.
 
-<p align="center"><i>⭐️ From a student building his way into AI, one project at a time.</i></p>
+```
+stack   : python · opencv · dlib/mediapipe
+status  : complete
+```
 
-### 🚀 Turning Ideas Into Intelligent Solutions
+</details>
+
+<details open>
+<summary><b>✋ AI Air Drawing</b> — hand-tracking canvas</summary>
+<br>
+
+Draws on a virtual canvas using hand-gesture tracking from a live webcam
+feed, no physical input device required.
+
+```
+stack   : python · opencv · mediapipe
+status  : complete
+```
+
+</details>
+
+<details>
+<summary><b>📈 STC Time Series Analysis</b> — forecasting pipeline</summary>
+<br>
+
+Time series analysis and prediction pipeline applied to STC data,
+covering trend, seasonality, and forecast evaluation.
+
+```
+stack   : python · pandas · statsmodels
+status  : complete
+```
+
+</details>
+
+<details>
+<summary><b>🩺 Diabetes Prediction</b> — medical ML classifier</summary>
+<br>
+
+Binary classification model predicting diabetes risk from patient health
+indicators.
+
+```
+stack   : python · scikit-learn
+status  : complete
+```
+
+</details>
+
+<br>
+
+## `~$ ./stats --proficiency`
+
+```
+ai / ml
+  machine learning      ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░  90%
+  deep learning         ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░░  85%
+  computer vision (cv)  ▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░░░  82%
+  pytorch               ▓▓▓▓▓▓▓▓▓▓▓▓░░░░░░░  80%
+
+development
+  python                 ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░  95%
+  c#                     ▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░░░  70%
+  javascript / node.js   ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░░  75%
+  data analysis          ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░░  85%
+```
+
+<br>
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=ahmedosama2321&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0a0a0a&title_color=00d9ff&icon_color=00d9ff&text_color=c9d1d9" height="165"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=ahmedosama2321&theme=tokyonight&hide_border=true&background=0a0a0a&ring=00d9ff&fire=ffb86c&currStreakLabel=00d9ff" height="165"/>
+
+</div>
+
+
+
+<br>
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/arabic-native-00d9ff?style=flat-square&labelColor=0a0a0a">
+<img src="https://img.shields.io/badge/english-C1-00d9ff?style=flat-square&labelColor=0a0a0a">
+<img src="https://img.shields.io/badge/german-B1-00d9ff?style=flat-square&labelColor=0a0a0a">
+
+</div>
+
+<br>
+
+<div align="center">
+
+## `~$ ./connect --list`
+
+<a href="https://linkedin.com/in/ahmedosammaa"><img src="https://img.shields.io/badge/LinkedIn-0a0a0a?style=for-the-badge&logo=linkedin&logoColor=0A66C2"/></a>
+<a href="https://github.com/ahmedosama2321"><img src="https://img.shields.io/badge/GitHub-0a0a0a?style=for-the-badge&logo=github&logoColor=white"/></a>
+<a href="mailto:ahmedosama2321@gmail.com"><img src="https://img.shields.io/badge/Email-0a0a0a?style=for-the-badge&logo=gmail&logoColor=EA4335"/></a>
+
+</div>
+
+<br>
+
+```
+┌────────────────────────────────────────────────────────────┐
+│  root@ahmed:~# cat philosophy.txt                            │
+│  ────────────────────────────                                │
+│  "A model that only works on clean data                      │
+│   hasn't learned the problem — it's memorized the dataset."   │
+│                                                                │
+│  root@ahmed:~# exit                                           │
+│  [ session closed ]                                            │
+└────────────────────────────────────────────────────────────┘
+```
 
 </div>
