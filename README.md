@@ -143,3 +143,11 @@ Computer Vision solutions for underwater robotics.
 ### 🚀 Turning Ideas Into Intelligent Solutions
 
 </div>
+
+<br>
+
+<div align="center">
+
+### 🚀 Turning Ideas Into Intelligent Solutions
+
+</div>
