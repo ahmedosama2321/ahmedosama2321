@@ -9,7 +9,7 @@
   <a href="https://linkedin.com/in/ahmedosammaa" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:ahmedosama2321@gmail.com">
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=ahmedosama2321@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <img src="https://img.shields.io/badge/Alexandria%2C%20Egypt-1DA1F2?style=for-the-badge&logo=googlemaps&logoColor=white" />
@@ -113,7 +113,7 @@ Contributing to AI and Machine Learning activities and projects.
   <a href="https://linkedin.com/in/ahmedosammaa" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:ahmedosama2321@gmail.com">
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=ahmedosama2321@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
