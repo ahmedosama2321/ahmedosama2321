@@ -1,125 +1,128 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=220&text=Ahmed%20Osama&fontSize=55&fontAlignY=35&desc=AI%20%7C%20Computer%20Vision%20%7C%20Software%20Development&descAlignY=58&animation=fadeIn&color=gradient" width="100%"/>
-
-<br>
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=23&duration=2800&pause=900&color=36BCF7&center=true&vCenter=true&width=800&lines=Computer+Science+%26+AI+Student+%F0%9F%A4%96;Machine+Learning+Enthusiast+%F0%9F%A7%A0;Computer+Vision+Developer+%F0%9F%91%81%EF%B8%8F;AI+%26+Data+Analysis+%F0%9F%93%8A;Building+Real-World+AI+Solutions+%F0%9F%9A%80" />
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=28&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Ahmed+Osama+%F0%9F%91%8B;AI+%26+Machine+Learning+Enthusiast+%F0%9F%A4%96;Computer+Vision+Developer+%F0%9F%91%81%EF%B8%8F;Building+Intelligent+Solutions+%F0%9F%9A%80" alt="Typing SVG">
 
 <br><br>
 
-<img src="https://komarev.com/ghpvc/?username=ahmedosama2321&label=PROFILE%20VIEWS&color=36BCF7&style=for-the-badge" />
+<img src="https://komarev.com/ghpvc/?username=ahmedosama2321&style=for-the-badge&color=36BCF7&label=PROFILE+VIEWS">
 
 </div>
 
 ---
 
-## 🧠 About Me
+# 👨‍💻 About Me
 
 🎓 **Computer Science & Artificial Intelligence Student**  
-📍 Pharos University in Alexandria  
-🤖 Interested in **Artificial Intelligence & Machine Learning**  
-👁️ Focused on **Computer Vision**  
-🌊 Computer Vision & AI Team Member at **CrocoMarine**  
-🚀 Building and experimenting with real-world AI solutions.
+📍 Pharos University in Alexandria
+
+🤖 Interested in **Artificial Intelligence & Machine Learning**
+
+👁️ Focused on **Computer Vision & Deep Learning**
+
+🌊 Computer Vision & AI Team Member at **CrocoMarine**
+
+🚀 I enjoy building AI systems that solve real-world problems.
 
 ---
 
-## ⚡ Tech Stack
+# 🧠 What I'm Working On
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,cpp,cs,js,nodejs,opencv,tensorflow,pytorch,git,github,linux,vscode" />
+🤖 Machine Learning  
+🧠 Deep Learning  
+👁️ Computer Vision  
+🎯 YOLO & Object Detection  
+📷 OpenCV  
+📊 Data Analysis  
+💻 Software Development
 
 </div>
 
 ---
 
-## 🤖 AI & Computer Vision
+# ⚡ Technologies
 
 <div align="center">
 
-🚀 Machine Learning &nbsp; • &nbsp; 🧠 Deep Learning  
-👁️ Computer Vision &nbsp; • &nbsp; 🎯 YOLO  
-📷 OpenCV &nbsp; • &nbsp; 📊 Data Analysis
+<img src="https://skillicons.dev/icons?i=python,cpp,cs,js,nodejs,git,github,linux,vscode" />
+
+<br><br>
+
+<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv" />
 
 </div>
 
 ---
 
-## 🚀 Featured Projects
+# 🚀 Featured Projects
 
-| Project | Description |
-|---|---|
-| 🤟 **Signova** | AI-powered Sign Language Recognition |
-| 🌱 **Smart Plant AI** | Computer Vision for Plant Disease Detection |
-| 👁️ **YOLO Projects** | Real-time Object Detection |
-| 🌊 **ROV Vision** | Computer Vision for Underwater Robotics |
+### 🤟 Signova
+AI-powered Sign Language Recognition system.
+
+### 🌱 Smart Plant AI
+Computer Vision system for plant disease detection.
+
+### 👁️ Object Detection
+Real-time object detection using YOLO.
+
+### 🌊 ROV Vision
+Computer Vision solutions for underwater robotics.
 
 ---
 
-## 📊 GitHub Stats
+# 📊 GitHub Stats
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=ahmedosama2321&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
+<img src="https://github-readme-stats.vercel.app/api?username=ahmedosama2321&show_icons=true&theme=tokyonight&hide_border=true" height="180">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedosama2321&layout=compact&theme=tokyonight&hide_border=true" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedosama2321&layout=compact&theme=tokyonight&hide_border=true" height="180">
 
 </div>
 
 ---
 
-## 🔥 GitHub Streak
+# 🔥 Contribution Streak
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ahmedosama2321&theme=tokyonight&hide_border=true" />
+<img src="https://streak-stats.demolab.com/?user=ahmedosama2321&theme=tokyonight&hide_border=true" width="70%">
 
 </div>
 
 ---
 
-## 📈 Contribution Activity
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ahmedosama2321&theme=tokyo-night&hide_border=true&area=true" width="95%"/>
-
-</div>
-
----
-
-## 🐍 My Contributions
+# 🐍 Contribution Snake
 
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="output/github-contribution-grid-snake.svg">
-  <img alt="GitHub Contribution Snake" src="output/github-contribution-grid-snake.svg" width="95%">
+<source media="(prefers-color-scheme: dark)" srcset="output/github-contribution-grid-snake-dark.svg">
+<source media="(prefers-color-scheme: light)" srcset="output/github-contribution-grid-snake.svg">
+<img src="output/github-contribution-grid-snake.svg" width="95%" alt="Contribution Snake">
 </picture>
 
 </div>
 
 ---
 
-## 🎯 2026 Goals
+# 🎯 2026 Goals
 
 <div align="center">
 
 🤖 Build Advanced AI Systems  
 👁️ Master Computer Vision  
 🧠 Improve Deep Learning  
-📊 Build Data-Driven Applications  
-🚀 Create Production-Ready AI Projects  
+📊 Build Advanced Data Projects  
+🚀 Create Production-Ready AI Applications  
 🌍 Contribute to Open Source
 
 </div>
 
 ---
 
-## 🌐 Connect With Me
+# 🌐 Connect With Me
 
 <div align="center">
 
@@ -137,8 +140,6 @@
 
 <div align="center">
 
-### 💭 "Turning ideas into intelligent solutions."
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=gradient" width="100%">
+### 🚀 Turning Ideas Into Intelligent Solutions
 
 </div>
