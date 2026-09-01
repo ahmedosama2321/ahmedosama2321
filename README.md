@@ -1,87 +1,156 @@
 <div align="center">
 
-# 👋 Hi, I'm Ahmed Osama
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Computer+Science+%26+AI+Student+🤖;AI+%26+Machine+Learning+Enthusiast+🧠;Computer+Vision+Developer+👁️;Building+AI+Projects+🚀" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&text=Ahmed%20Osama&fontSize=55&fontAlignY=35&desc=AI%20%7C%20Computer%20Vision%20%7C%20Software%20Development&descAlignY=58&animation=fadeIn&color=gradient" width="100%"/>
 
 <br>
 
-<img src="https://komarev.com/ghpvc/?username=ahmedosama2321&label=Profile%20Views&color=36BCF7&style=flat" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=23&duration=2800&pause=900&color=36BCF7&center=true&vCenter=true&width=800&lines=Computer+Science+%26+AI+Student+%F0%9F%A4%96;Machine+Learning+Enthusiast+%F0%9F%A7%A0;Computer+Vision+Developer+%F0%9F%91%81%EF%B8%8F;AI+%26+Data+Analysis+%F0%9F%93%8A;Building+Real-World+AI+Solutions+%F0%9F%9A%80" />
+
+<br><br>
+
+<img src="https://komarev.com/ghpvc/?username=ahmedosama2321&label=PROFILE%20VIEWS&color=36BCF7&style=for-the-badge" />
 
 </div>
 
 ---
 
-## 🧠 About Me
+# 👨‍💻 About Me
 
-🎓 **Computer Science & Artificial Intelligence Student**
+```python
+class AhmedOsama:
 
-📍 Pharos University in Alexandria
+    def __init__(self):
+        self.name = "Ahmed Osama"
+        self.role = "CS & AI Student"
+        self.university = "Pharos University in Alexandria"
 
-🤖 Interested in **Artificial Intelligence & Machine Learning**
+        self.interests = [
+            "Artificial Intelligence",
+            "Machine Learning",
+            "Computer Vision",
+            "Data Analysis",
+            "Backend Development"
+        ]
 
-👁️ Focused on **Computer Vision**
+        self.current_focus = [
+            "Deep Learning",
+            "Computer Vision",
+            "YOLO",
+            "AI Applications"
+        ]
 
-🌊 Computer Vision & AI Team Member at **CrocoMarine**
+    def goal(self):
+        return "Build AI solutions that solve real-world problems 🚀"
+🧠 What I Do
 
-🚀 Always building, learning and experimenting with new technologies.
+<div align="center">
 
----
+<table> <tr>
 
-## ⚡ Tech Stack
+<td align="center" width="250">
 
-### 🤖 AI / Machine Learning
+🤖 AI & ML
 
-<p align="center">
-<img src="https://skillicons.dev/icons?i=python,opencv,tensorflow,pytorch" />
-</p>
+Machine Learning
+Deep Learning
+Neural Networks
+Model Training
 
-### 💻 Programming
+</td>
 
-<p align="center">
-<img src="https://skillicons.dev/icons?i=python,cpp,cs,js,nodejs" />
-</p>
+<td align="center" width="250">
 
-### 🛠️ Tools
+👁️ Computer Vision
 
-<p align="center">
-<img src="https://skillicons.dev/icons?i=git,github,linux,vscode,numpy" />
-</p>
+OpenCV
+YOLO
+Object Detection
+Image Processing
 
----
+</td>
 
-## 👁️ Computer Vision
+<td align="center" width="250">
 
-```text
+📊 Data
+
+Data Analysis
+NumPy
+Pandas
+Data Visualization
+
+</td>
+
+</tr> </table>
+
+</div>
+
+⚡ Tech Stack
+
+<div align="center">
+
+Languages
+
+<img src="https://skillicons.dev/icons?i=python,cpp,cs,js" />
+
+<br><br>
+
+AI / Computer Vision
+
+<img src="https://skillicons.dev/icons?i=opencv,tensorflow,pytorch" />
+
+<br><br>
+
+Development & Tools
+
+<img src="https://skillicons.dev/icons?i=nodejs,git,github,linux,vscode" />
+
+<br><br>
+
+Data
+
+<img src="https://skillicons.dev/icons?i=python" />
+
+NumPy Pandas Matplotlib Scikit-Learn
+
+</div>
+
+🚀 Featured Projects
+
+<div align="center">
+
+Project	Description
+🤟 Signova	AI-powered sign language recognition system
+🌱 Smart Plant AI	Computer Vision plant disease detection
+👁️ Object Detection	Real-time detection using YOLO
+🌊 ROV Vision	Computer Vision solutions for underwater robotics
+📊 ML Projects	Machine Learning & Data Analysis projects
+
+</div>
+
+🧩 My AI Journey
+Python
+   │
+   ▼
+Data Analysis
+   │
+   ▼
+Machine Learning
+   │
+   ▼
+Deep Learning
+   │
+   ▼
 Computer Vision
-      │
-      ├── OpenCV
-      ├── YOLO
-      ├── Object Detection
-      ├── Image Processing
-      └── Deep Learning
-🚀 Featured Interests
+   │
+   ▼
+Real-World AI Applications 🚀
+📊 GitHub Analytics
 
 <div align="center">
 
-🤖 AI	👁️ Computer Vision
-Machine Learning	OpenCV
-Deep Learning	YOLO
-Neural Networks	Object Detection
-📊 Data	💻 Development
-NumPy	JavaScript
-Data Analysis	Node.js
-Pandas	Git & GitHub
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=ahmedosama2321&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true" />
 
-</div>
-
-📊 GitHub Stats
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=ahmedosama2321&show_icons=true&theme=tokyonight&hide_border=true" />
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedosama2321&layout=compact&theme=tokyonight&hide_border=true" />
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedosama2321&layout=compact&theme=tokyonight&hide_border=true" />
 
 </div>
 
@@ -93,28 +162,53 @@ Pandas	Git & GitHub
 
 </div>
 
-🐍 Contribution Snake
+📈 Contribution Activity
 
 <div align="center">
 
-<picture> <source media="(prefers-color-scheme: dark)" srcset="output/github-contribution-grid-snake-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="output/github-contribution-grid-snake.svg" /> <img alt="GitHub Contribution Snake" src="output/github-contribution-grid-snake.svg" /> </picture>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ahmedosama2321&theme=tokyo-night&hide_border=true&area=true" width="95%"/>
 
 </div>
 
-🌐 Connect With Me
+🐍 Watch My Contributions Move
 
 <div align="center">
 
-<a href="https://github.com/ahmedosama2321"> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /> </a>
-
-<a href="https://linkedin.com/in/ahmedosammaa"> <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /> </a>
+<picture> <source media="(prefers-color-scheme: dark)" srcset="output/github-contribution-grid-snake-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="output/github-contribution-grid-snake.svg" /> <img alt="GitHub Contribution Snake" src="output/github-contribution-grid-snake.svg" width="95%" /> </picture>
 
 </div>
 
+🎯 2026 Goals
+
 <div align="center">
 
-🚀 Build • Learn • Create • Repeat
+🤖 Build stronger AI systems
+👁️ Master Computer Vision
+🧠 Improve Deep Learning skills
+📊 Build advanced Data Analysis projects
+🚀 Create production-ready AI applications
+🌍 Contribute to Open Source
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=36BCF7&height=120&section=footer"/>
+</div>
+
+🌐 Let's Connect
+
+<div align="center">
+
+<a href="https://github.com/ahmedosama2321"> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/> </a>
+
+<a href="https://www.linkedin.com/in/ahmedosammaa/"> <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/> </a>
+
+</div>
+
+<br>
+
+<div align="center">
+
+💭 "Turning ideas into intelligent solutions."
+
+<br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=gradient" width="100%"/>
 
 </div> ```
