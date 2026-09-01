@@ -1,4 +1,3 @@
-````md
 <div align="center">
 
 # 👋 Hi, I'm Ahmed Osama
@@ -61,31 +60,22 @@ Computer Vision
       ├── Object Detection
       ├── Image Processing
       └── Deep Learning
-````
-
----
-
-## 🚀 Featured Interests
+🚀 Featured Interests
 
 <div align="center">
 
-|       🤖 AI      | 👁️ Computer Vision |
-| :--------------: | :-----------------: |
-| Machine Learning |        OpenCV       |
-|   Deep Learning  |         YOLO        |
-|  Neural Networks |   Object Detection  |
-
-|    📊 Data    | 💻 Development |
-| :-----------: | :------------: |
-|     NumPy     |   JavaScript   |
-| Data Analysis |     Node.js    |
-|     Pandas    |  Git & GitHub  |
+🤖 AI	👁️ Computer Vision
+Machine Learning	OpenCV
+Deep Learning	YOLO
+Neural Networks	Object Detection
+📊 Data	💻 Development
+NumPy	JavaScript
+Data Analysis	Node.js
+Pandas	Git & GitHub
 
 </div>
 
----
-
-## 📊 GitHub Stats
+📊 GitHub Stats
 
 <div align="center">
 
@@ -95,9 +85,7 @@ Computer Vision
 
 </div>
 
----
-
-## 🔥 GitHub Streak
+🔥 GitHub Streak
 
 <div align="center">
 
@@ -105,52 +93,28 @@ Computer Vision
 
 </div>
 
----
-
-## 🐍 Contribution Snake
+🐍 Contribution Snake
 
 <div align="center">
 
-<picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="output/github-contribution-grid-snake-dark.svg"
-  />
-  <source
-    media="(prefers-color-scheme: light)"
-    srcset="output/github-contribution-grid-snake.svg"
-  />
-  <img
-    alt="GitHub Contribution Snake"
-    src="output/github-contribution-grid-snake.svg"
-  />
-</picture>
+<picture> <source media="(prefers-color-scheme: dark)" srcset="output/github-contribution-grid-snake-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="output/github-contribution-grid-snake.svg" /> <img alt="GitHub Contribution Snake" src="output/github-contribution-grid-snake.svg" /> </picture>
 
 </div>
 
----
-
-## 🌐 Connect With Me
+🌐 Connect With Me
 
 <div align="center">
 
-<a href="https://github.com/ahmedosama2321">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-</a>
+<a href="https://github.com/ahmedosama2321"> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /> </a>
 
-<a href="https://linkedin.com/in/ahmedosammaa">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
+<a href="https://linkedin.com/in/ahmedosammaa"> <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /> </a>
 
 </div>
 
----
-
 <div align="center">
 
-### 🚀 Build • Learn • Create • Repeat
+🚀 Build • Learn • Create • Repeat
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=36BCF7&height=120&section=footer"/>
 
-</div>
-```
+</div> ```
