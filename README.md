@@ -1,17 +1,16 @@
 <div align="center">
 
-<pre>
- ▄▄▄       ██░ ██  ███▄ ▄███▓▓█████ ▓█████▄ 
-▒████▄    ▓██░ ██▒▓██▒▀█▀ ██▒▓█   ▀ ▒██▀ ██▌
-▒██  ▀█▄  ▒██▀▀██░▓██    ▓██░▒███   ░██   █▌
-░██▄▄▄▄██ ░▓█ ░██ ▒██    ▒██ ▒▓█  ▄ ░▓█▄   ▌
- ▓█   ▓██▒░▓█▒░██▓▒██▒   ░██▒░▒████▒░▒████▓ 
- ▒▒   ▓▒█░ ▒ ░░▒░▒░ ▒░   ░  ░░░ ▒░ ░ ▒▒▓  ▒ 
-  ▒   ▒▒ ░ ▒ ░▒░ ░░  ░      ░ ░ ░  ░ ░ ▒  ▒ 
-  ░   ▒    ░  ░░ ░░      ░      ░    ░ ░  ░ 
-      ░  ░ ░  ░  ░       ░      ░  ░   ░    
-                                      ░      
-</pre>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2500&pause=900&color=00D9FF&center=true&vCenter=true&width=650&lines=root%40ahmed%3A~%23+whoami;cs+%2B+ai+student+%2F%2F+computer+vision;training+models+%2F%2F+building+rovs;%5Bok%5D+identity+resolved" /></a>
+
+<br><br>
+
+<img src="https://github.com/ahmedosama2321/ahmedosama2321/raw/main/ascii.svg" alt="Osama" width="320">
+
+<br><br>
+
+<img src="https://img.shields.io/badge/root-ahmed__osama-00d9ff?style=flat-square&labelColor=0a0a0a">
+
+
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2500&pause=900&color=00D9FF&center=true&vCenter=true&width=650&lines=root%40ahmed%3A~%23+whoami;cs+%2B+ai+student+%2F%2F+computer+vision;training+models+%2F%2F+building+rovs;%5Bok%5D+identity+resolved" /></a>
 
